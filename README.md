@@ -8,4 +8,4 @@
 Использовались все изученные технологие, которые нам давали в теории Практикума
 
 ## Ссылка на проект в Гитхаб
-https://sergeimusailov.github.io/russian-travel/
+https://github.com/Phraysser/russian-travel
